@@ -2,3 +2,6 @@
 
 Source files shown in The Operator Overload Podcast will either show up here or in specific repos. 
 
+Podcast episodes can be found here:
+
+https://www.youtube.com/@op-overload/videos
