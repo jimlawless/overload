@@ -1,5 +1,8 @@
 # Season 1 - Episode 1
 
+Podcast:
+https://youtu.be/8WDHPjzPFrI
+
 Source files for mmplay.c can be found here.
 
 The cmdmp3 sources and binaries can be found at:
